@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class ParkingSystem implements IParking{
 	int totalBig=0;    // 大车数总车位
 	int totalMedium=0;
-	int totalSmall=0;  
+	int totalSmall=0;
 	int Big=0;      //现有大车数
 	int Medium=0;
 	int Small=0;
